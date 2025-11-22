@@ -1,13 +1,16 @@
-#include <fstream>
-#include <iostream>
-#include <stdlib.h> // For system("clear")
-#include <string>
+#include <stdlib.h>  // For system("clear")
 #include <termios.h> // For terminal I/O settings
 #include <unistd.h>  // For STDIN_FILENO, read
+
+#include <fstream>
+#include <iostream>
+#include <string>
 #include <vector>
 
 // --- Platform-specific clear screen function ---
-void ClearScreen() { system("clear"); }
+void ClearScreen() {
+  system("clear");
+}
 
 // --- Platform-specific single-character input ---
 // This is the proper POSIX way to get a single key
@@ -71,12 +74,11 @@ public:
     ClearScreen(); // Clear the console
 
     // Loop through the map and print it
-    for (const std::string &row : map) {
+    for (const std::string& row : map) {
       std::cout << row << '\n';
     }
     std::cout << "Use W, A, S, D to move. Q to quit." << '\n';
-    std::cout << "Player position: (" << playerX << ", " << playerY << ")"
-              << '\n';
+    std::cout << "Player position: (" << playerX << ", " << playerY << ")" << '\n';
   }
 
   void Update(char input) {
@@ -106,8 +108,7 @@ public:
     }
 
     // Check for collisions with walls
-    if (nextY >= 0 && nextY < map.size() && nextX >= 0 &&
-        nextX < map[0].size() && map[nextY][nextX] != '#') {
+    if (nextY >= 0 && nextY < map.size() && nextX >= 0 && nextX < map[0].size() && map[nextY][nextX] != '#') {
       playerX = nextX;
       playerY = nextY;
     }
@@ -121,9 +122,8 @@ private:
 
 bool Game::LoadMapFromDisk() {
   // Support running from repo root or tests/ via relative fallbacks
-  const std::vector<std::string> mapPaths = {"maps/11x20.txt",
-                                             "../maps/11x20.txt"};
-  for (const std::string &path : mapPaths) {
+  const std::vector<std::string> mapPaths = {"maps/11x20.txt", "../maps/11x20.txt"};
+  for (const std::string& path : mapPaths) {
     std::ifstream file(path);
     if (!file.is_open()) {
       continue;
