@@ -43,8 +43,8 @@
   "editor.wordWrap": "off",
   "editor.trimAutoWhitespace": true,
   "files.trimTrailingWhitespace": true,
-  "files.insertFinalNewline": true,
-  "files.trimFinalNewlines": true,
+  "files.insertFinalNewline": false,
+  "files.trimFinalNewlines": false,
   "files.associations": {
     "iostream": "cpp",
     "any": "cpp",
