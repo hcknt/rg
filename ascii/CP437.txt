@@ -1,0 +1,298 @@
+CP437 (DOS) Character Set - All 256 Characters
+==============================================
+
+Dec  Hex  Char  Description
+---  ---  ----  -----------
+  0  00    NUL  Null
+  1  01   ☺    White Smiling Face
+  2  02   ☻    Black Smiling Face
+  3  03   ♥    Heart
+  4  04   ♦    Diamond
+  5  05   ♣    Club
+  6  06   ♠    Spade
+  7  07   •    Bullet
+  8  08   ◘    Inverse Bullet
+  9  09   ○    White Circle
+ 10  0A   ◙    Inverse White Circle
+ 11  0B   ♂    Male Sign
+ 12  0C   ♀    Female Sign
+ 13  0D   ♪    Eighth Note
+ 14  0E   ♫    Beamed Eighth Notes
+ 15  0F   ☼    White Sun with Rays
+ 16  10   ►    Black Right-Pointing Pointer
+ 17  11   ◄    Black Left-Pointing Pointer
+ 18  12   ↕    Up Down Arrow
+ 19  13   ‼    Double Exclamation Mark
+ 20  14   ¶    Pilcrow Sign
+ 21  15   §    Section Sign
+ 22  16   ▬    Black Rectangle
+ 23  17   ↨    Up Down Arrow with Base
+ 24  18   ↑    Upwards Arrow
+ 25  19   ↓    Downwards Arrow
+ 26  1A   →    Rightwards Arrow
+ 27  1B   ←    Leftwards Arrow
+ 28  1C   ∟    Right Angle
+ 29  1D   ↔    Left Right Arrow
+ 30  1E   ▲    Black Up-Pointing Triangle
+ 31  1F   ▼    Black Down-Pointing Triangle
+ 32  20        Space
+ 33  21   !    Exclamation Mark
+ 34  22   "    Quotation Mark
+ 35  23   #    Number Sign
+ 36  24   $    Dollar Sign
+ 37  25   %    Percent Sign
+ 38  26   &    Ampersand
+ 39  27   '    Apostrophe
+ 40  28   (    Left Parenthesis
+ 41  29   )    Right Parenthesis
+ 42  2A   *    Asterisk
+ 43  2B   +    Plus Sign
+ 44  2C   ,    Comma
+ 45  2D   -    Hyphen-Minus
+ 46  2E   .    Full Stop
+ 47  2F   /    Solidus
+ 48  30   0    Digit Zero
+ 49  31   1    Digit One
+ 50  32   2    Digit Two
+ 51  33   3    Digit Three
+ 52  34   4    Digit Four
+ 53  35   5    Digit Five
+ 54  36   6    Digit Six
+ 55  37   7    Digit Seven
+ 56  38   8    Digit Eight
+ 57  39   9    Digit Nine
+ 58  3A   :    Colon
+ 59  3B   ;    Semicolon
+ 60  3C   <    Less-Than Sign
+ 61  3D   =    Equals Sign
+ 62  3E   >    Greater-Than Sign
+ 63  3F   ?    Question Mark
+ 64  40   @    Commercial At
+ 65  41   A    Latin Capital Letter A
+ 66  42   B    Latin Capital Letter B
+ 67  43   C    Latin Capital Letter C
+ 68  44   D    Latin Capital Letter D
+ 69  45   E    Latin Capital Letter E
+ 70  46   F    Latin Capital Letter F
+ 71  47   G    Latin Capital Letter G
+ 72  48   H    Latin Capital Letter H
+ 73  49   I    Latin Capital Letter I
+ 74  4A   J    Latin Capital Letter J
+ 75  4B   K    Latin Capital Letter K
+ 76  4C   L    Latin Capital Letter L
+ 77  4D   M    Latin Capital Letter M
+ 78  4E   N    Latin Capital Letter N
+ 79  4F   O    Latin Capital Letter O
+ 80  50   P    Latin Capital Letter P
+ 81  51   Q    Latin Capital Letter Q
+ 82  52   R    Latin Capital Letter R
+ 83  53   S    Latin Capital Letter S
+ 84  54   T    Latin Capital Letter T
+ 85  55   U    Latin Capital Letter U
+ 86  56   V    Latin Capital Letter V
+ 87  57   W    Latin Capital Letter W
+ 88  58   X    Latin Capital Letter X
+ 89  59   Y    Latin Capital Letter Y
+ 90  5A   Z    Latin Capital Letter Z
+ 91  5B   [    Left Square Bracket
+ 92  5C   \    Reverse Solidus
+ 93  5D   ]    Right Square Bracket
+ 94  5E   ^    Circumflex Accent
+ 95  5F   _    Low Line
+ 96  60   `    Grave Accent
+ 97  61   a    Latin Small Letter A
+ 98  62   b    Latin Small Letter B
+ 99  63   c    Latin Small Letter C
+100  64   d    Latin Small Letter D
+101  65   e    Latin Small Letter E
+102  66   f    Latin Small Letter F
+103  67   g    Latin Small Letter G
+104  68   h    Latin Small Letter H
+105  69   i    Latin Small Letter I
+106  6A   j    Latin Small Letter J
+107  6B   k    Latin Small Letter K
+108  6C   l    Latin Small Letter L
+109  6D   m    Latin Small Letter M
+110  6E   n    Latin Small Letter N
+111  6F   o    Latin Small Letter O
+112  70   p    Latin Small Letter P
+113  71   q    Latin Small Letter Q
+114  72   r    Latin Small Letter R
+115  73   s    Latin Small Letter S
+116  74   t    Latin Small Letter T
+117  75   u    Latin Small Letter U
+118  76   v    Latin Small Letter V
+119  77   w    Latin Small Letter W
+120  78   x    Latin Small Letter X
+121  79   y    Latin Small Letter Y
+122  7A   z    Latin Small Letter Z
+123  7B   {    Left Curly Bracket
+124  7C   |    Vertical Line
+125  7D   }    Right Curly Bracket
+126  7E   ~    Tilde
+127  7F   ⌂    House
+128  80   Ç    Latin Capital Letter C with Cedilla
+129  81   ü    Latin Small Letter U with Diaeresis
+130  82   é    Latin Small Letter E with Acute
+131  83   â    Latin Small Letter A with Circumflex
+132  84   ä    Latin Small Letter A with Diaeresis
+133  85   à    Latin Small Letter A with Grave
+134  86   å    Latin Small Letter A with Ring Above
+135  87   ç    Latin Small Letter C with Cedilla
+136  88   ê    Latin Small Letter E with Circumflex
+137  89   ë    Latin Small Letter E with Diaeresis
+138  8A   è    Latin Small Letter E with Grave
+139  8B   ï    Latin Small Letter I with Diaeresis
+140  8C   î    Latin Small Letter I with Circumflex
+141  8D   ì    Latin Small Letter I with Grave
+142  8E   Ä    Latin Capital Letter A with Diaeresis
+143  8F   Å    Latin Capital Letter A with Ring Above
+144  90   É    Latin Capital Letter E with Acute
+145  91   æ    Latin Small Letter AE
+146  92   Æ    Latin Capital Letter AE
+147  93   ô    Latin Small Letter O with Circumflex
+148  94   ö    Latin Small Letter O with Diaeresis
+149  95   ò    Latin Small Letter O with Grave
+150  96   û    Latin Small Letter U with Circumflex
+151  97   ù    Latin Small Letter U with Grave
+152  98   ÿ    Latin Small Letter Y with Diaeresis
+153  99   Ö    Latin Capital Letter O with Diaeresis
+154  9A   Ü    Latin Capital Letter U with Diaeresis
+155  9B   ¢    Cent Sign
+156  9C   £    Pound Sign
+157  9D   ¥    Yen Sign
+158  9E   ₧    Peseta Sign
+159  9F   ƒ    Latin Small Letter F with Hook
+160  A0   á    Latin Small Letter A with Acute
+161  A1   í    Latin Small Letter I with Acute
+162  A2   ó    Latin Small Letter O with Acute
+163  A3   ú    Latin Small Letter U with Acute
+164  A4   ñ    Latin Small Letter N with Tilde
+165  A5   Ñ    Latin Capital Letter N with Tilde
+166  A6   ª    Feminine Ordinal Indicator
+167  A7   º    Masculine Ordinal Indicator
+168  A8   ¿    Inverted Question Mark
+169  A9   ⌐    Reversed Not Sign
+170  AA   ¬    Not Sign
+171  AB   ½    Vulgar Fraction One Half
+172  AC   ¼    Vulgar Fraction One Quarter
+173  AD   ¡    Inverted Exclamation Mark
+174  AE   «    Left-Pointing Double Angle Quotation Mark
+175  AF   »    Right-Pointing Double Angle Quotation Mark
+176  B0   ░    Light Shade
+177  B1   ▒    Medium Shade
+178  B2   ▓    Dark Shade
+179  B3   │    Box Drawings Light Vertical
+180  B4   ┤    Box Drawings Light Vertical and Left
+181  B5   ╡    Box Drawings Vertical Single and Left Double
+182  B6   ╢    Box Drawings Vertical Double and Left Single
+183  B7   ╖    Box Drawings Down Double and Left Single
+184  B8   ╕    Box Drawings Down Single and Left Double
+185  B9   ╣    Box Drawings Double Vertical and Left
+186  BA   ║    Box Drawings Double Vertical
+187  BB   ╗    Box Drawings Double Down and Left
+188  BC   ╝    Box Drawings Double Up and Left
+189  BD   ╜    Box Drawings Up Double and Left Single
+190  BE   ╛    Box Drawings Up Single and Left Double
+191  BF   ┐    Box Drawings Light Down and Left
+192  C0   └    Box Drawings Light Up and Right
+193  C1   ┴    Box Drawings Light Up and Horizontal
+194  C2   ┬    Box Drawings Light Down and Horizontal
+195  C3   ├    Box Drawings Light Vertical and Right
+196  C4   ─    Box Drawings Light Horizontal
+197  C5   ┼    Box Drawings Light Vertical and Horizontal
+198  C6   ╞    Box Drawings Vertical Single and Right Double
+199  C7   ╟    Box Drawings Vertical Double and Right Single
+200  C8   ╚    Box Drawings Double Up and Right
+201  C9   ╔    Box Drawings Double Down and Right
+202  CA   ╩    Box Drawings Double Up and Horizontal
+203  CB   ╦    Box Drawings Double Down and Horizontal
+204  CC   ╠    Box Drawings Double Vertical and Right
+205  CD   ═    Box Drawings Double Horizontal
+206  CE   ╬    Box Drawings Double Vertical and Horizontal
+207  CF   ╧    Box Drawings Up Single and Horizontal Double
+208  D0   ╨    Box Drawings Up Double and Horizontal Single
+209  D1   ╤    Box Drawings Down Single and Horizontal Double
+210  D2   ╥    Box Drawings Down Double and Horizontal Single
+211  D3   ╙    Box Drawings Up Double and Right Single
+212  D4   ╘    Box Drawings Up Single and Right Double
+213  D5   ╒    Box Drawings Down Single and Right Double
+214  D6   ╓    Box Drawings Down Double and Right Single
+215  D7   ╫    Box Drawings Vertical Double and Horizontal Single
+216  D8   ╪    Box Drawings Vertical Single and Horizontal Double
+217  D9   ┘    Box Drawings Light Up and Left
+218  DA   ┌    Box Drawings Light Down and Right
+219  DB   █    Full Block
+220  DC   ▄    Lower Half Block
+221  DD   ▌    Left Half Block
+222  DE   ▐    Right Half Block
+223  DF   ▀    Upper Half Block
+224  E0   α    Greek Small Letter Alpha
+225  E1   ß    Latin Small Letter Sharp S
+226  E2   Γ    Greek Capital Letter Gamma
+227  E3   π    Greek Small Letter Pi
+228  E4   Σ    Greek Capital Letter Sigma
+229  E5   σ    Greek Small Letter Sigma
+230  E6   µ    Micro Sign
+231  E7   τ    Greek Small Letter Tau
+232  E8   Φ    Greek Capital Letter Phi
+233  E9   Θ    Greek Capital Letter Theta
+234  EA   Ω    Greek Capital Letter Omega
+235  EB   δ    Greek Small Letter Delta
+236  EC   ∞    Infinity
+237  ED   φ    Greek Small Letter Phi
+238  EE   ε    Greek Small Letter Epsilon
+239  EF   ∩    Intersection
+240  F0   ≡    Identical To
+241  F1   ±    Plus-Minus Sign
+242  F2   ≥    Greater-Than or Equal To
+243  F3   ≤    Less-Than or Equal To
+244  F4   ⌠    Top Half Integral
+245  F5   ⌡    Bottom Half Integral
+246  F6   ÷    Division Sign
+247  F7   ≈    Almost Equal To
+248  F8   °    Degree Sign
+249  F9   ∙    Bullet Operator
+250  FA   ·    Middle Dot
+251  FB   √    Square Root
+252  FC   ⁿ    Superscript Latin Small Letter N
+253  FD   ²    Superscript Two
+254  FE   ■    Black Square
+255  FF       No-Break Space
+
+====================================================
+
+     0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F
+   ┌──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬──┐
+ 0 │  │☺ │☻ │♥ │♦ │♣ │♠ │• │◘ │○ │◙ │♂ │♀ │♪ │♫ │☼ │
+   ├──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┤
+ 1 │► │◄ │↕ │‼ │¶ │§ │▬ │↨ │↑ │↓ │→ │← │∟ │↔ │▲ │▼ │
+   ├──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┤
+ 2 │  │! │" │# │$ │% │& │' │( │) │* │+ │, │- │. │/ │
+   ├──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┤
+ 3 │0 │1 │2 │3 │4 │5 │6 │7 │8 │9 │: │; │< │= │> │? │
+   ├──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┤
+ 4 │@ │A │B │C │D │E │F │G │H │I │J │K │L │M │N │O │
+   ├──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┤
+ 5 │P │Q │R │S │T │U │V │W │X │Y │Z │[ │\ │] │^ │_ │
+   ├──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┤
+ 6 │` │a │b │c │d │e │f │g │h │i │j │k │l │m │n │o │
+   ├──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┤
+ 7 │p │q │r │s │t │u │v │w │x │y │z │{ │| │} │~ │⌂ │
+   ├──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┤
+ 8 │Ç │ü │é │â │ä │à │å │ç │ê │ë │è │ï │î │ì │Ä │Å │
+   ├──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┤
+ 9 │É │æ │Æ │ô │ö │ò │û │ù │ÿ │Ö │Ü │¢ │£ │¥ │₧ │ƒ │
+   ├──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┤
+ A │á │í │ó │ú │ñ │Ñ │ª │º │¿ │⌐ │¬ │½ │¼ │¡ │« │» │
+   ├──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┤
+ B │░ │▒ │▓ ││ │┤ │╡ │╢ │╖ │╕ │╣ │║ │╗ │╝ │╜ │╛ │┐ │
+   ├──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┤
+ C │└ │┴ │┬ │├ │─ │┼ │╞ │╟ │╚ │╔ │╩ │╦ │╠ │═ │╬ │╧ │
+   ├──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┤
+ D │╨ │╤ │╥ │╙ │╘ │╒ │╓ │╫ │╪ │┘ │┌ │█ │▄ │▌ │▐ │▀ │
+   ├──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┤
+ E │α │ß │Γ │π │Σ │σ │µ │τ │Φ │Θ │Ω │δ │∞ │φ │ε │∩ │
+   ├──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┼──┤
+ F │≡ │± │≥ │≤ │⌠ │⌡ │÷ │≈ │° │∙ │· │√ │ⁿ │² │■ │  │
+   └──┴──┴──┴──┴──┴──┴──┴──┴──┴──┴──┴──┴──┴──┴──┴──┘
