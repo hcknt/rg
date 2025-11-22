@@ -1,0 +1,80 @@
+# clang-tidy configuration
+Checks: >
+  -*,
+  bugprone-*,
+  cert-*,
+  clang-analyzer-*,
+  cppcoreguidelines-*,
+  modernize-*,
+  performance-*,
+  readability-*,
+  -modernize-use-trailing-return-type,
+  -readability-braces-around-statements,
+  -cppcoreguidelines-avoid-magic-numbers,
+  -readability-magic-numbers,
+  -cppcoreguidelines-pro-bounds-pointer-arithmetic,
+  -readability-identifier-length,
+  -readability-else-after-return,
+  -cppcoreguidelines-avoid-non-const-global-variables,
+  -cppcoreguidelines-owning-memory
+
+WarningsAsErrors: ''
+HeaderFilterRegex: '.*'
+FormatStyle: file
+
+CheckOptions:
+  # Classes/Structs: PascalCase
+  - key: readability-identifier-naming.ClassCase
+    value: CamelCase
+  - key: readability-identifier-naming.StructCase
+    value: CamelCase
+
+  # Public methods: PascalCase
+  - key: readability-identifier-naming.PublicMethodCase
+    value: CamelCase
+
+  # Private/protected methods: camelCase
+  - key: readability-identifier-naming.PrivateMethodCase
+    value: camelBack
+  - key: readability-identifier-naming.ProtectedMethodCase
+    value: camelBack
+
+  # Local variables/parameters: camelCase
+  - key: readability-identifier-naming.LocalVariableCase
+    value: camelBack
+  - key: readability-identifier-naming.ParameterCase
+    value: camelBack
+
+  # Member variables: m prefix + camelCase (mCamelCase)
+  - key: readability-identifier-naming.PrivateMemberPrefix
+    value: 'm'
+  - key: readability-identifier-naming.ProtectedMemberPrefix
+    value: 'm'
+  - key: readability-identifier-naming.PrivateMemberCase
+    value: CamelCase
+  - key: readability-identifier-naming.ProtectedMemberCase
+    value: CamelCase
+
+  # Static variables: s prefix
+  - key: readability-identifier-naming.StaticVariablePrefix
+    value: 's'
+  - key: readability-identifier-naming.StaticVariableCase
+    value: CamelCase
+
+  # Constants: constexpr: UPPER_CASE, const local var: camelBack
+  - key: readability-identifier-naming.ConstexprVariableCase
+    value: UPPER_CASE
+  - key: readability-identifier-naming.ConstantCase
+    value: camelBack
+
+  # Enums: e prefix + PascalCase (ePascalCase)
+  - key: readability-identifier-naming.EnumPrefix
+    value: 'e'
+  - key: readability-identifier-naming.EnumCase
+    value: CamelCase
+  - key: readability-identifier-naming.EnumConstantCase
+    value: CamelCase
+
+  # Namespaces: lowercase
+  - key: readability-identifier-naming.NamespaceCase
+    value: lower_case
